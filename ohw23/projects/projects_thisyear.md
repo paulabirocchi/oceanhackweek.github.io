@@ -32,9 +32,11 @@ Projects from OceanHackWeek 2023.
 - Presentation recording(s)
 <!-- - [Project pitch slide](https://docs.google.com/presentation/d/1eQKSdFHNGMDqGJMY4d-yGnNm4UrUj5kIS2mLQGPMZC8/edit#slide=id.g25f8e87bf15_11_0) -->
 
-### SST spatial distribution prediction using machine learning
+### SST spatial distribution prediction using deep learning
 
-- Project members: TO-BE-FILLED-IN!
+Predicting SST spatial distribution for the following day using ERA5 Reanalysis and MUR satellite data (NASA) between 2000 to 2020 as input in a ConvLSTM deep learning model.
+
+- Project members: Jiarui Yu, Paula Birocchi, Boris Shapkin, Alex Slonimer, Dafrosa Kataraihya, Hao Tang, Danyang Li, Chandrama Sarker, Zhengxi Zhou
 - GitHub repository: [https://github.com/oceanhackweek/ohw23_proj_sst](https://github.com/oceanhackweek/ohw23_proj_sst)
 - Presentation recording(s)
 <!-- - [Project pitch slide](https://docs.google.com/presentation/d/1eQKSdFHNGMDqGJMY4d-yGnNm4UrUj5kIS2mLQGPMZC8/edit#slide=id.g239da66eda5_25_5) -->
